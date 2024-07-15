@@ -38,7 +38,7 @@ const getTotalBalanceByGender = (users, gender) =>
     name: "Sheree Anthony",
     gender: "female",
     balance: 2764
-  }
+  },
 ];
 
 console.log(getTotalBalanceByGender(allUsersAll, "male")); // 12053
