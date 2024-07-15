@@ -1,4 +1,4 @@
-const getUserName = (user) =>
+const getUserNames = (user) =>
   user.map((user) => user.name);
 
 console.log(

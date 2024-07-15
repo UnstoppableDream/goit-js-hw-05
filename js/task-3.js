@@ -38,7 +38,7 @@ console.log(
       name: "Sheree Anthony",
       friends: ["Goldie Gentry", "Briana Decker"],
       gender: "female"
-    }
+    },
   ])
 );
 // [
